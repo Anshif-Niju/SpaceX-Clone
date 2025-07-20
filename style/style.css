@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+*::-moz-selection {
+  color: black;
+  background-color: white;
+}
+*::selection {
+  color: black;
+  background-color: white;
+}
+
+header {
+  background-color: black;
+  height: 120px;
+}/*# sourceMappingURL=style.css.map */
