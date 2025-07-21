@@ -162,7 +162,28 @@ h1{
 }
 
 
+//Footer
 
+.foot{
+    width: 100vw;
+    height: 8vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    p{
+        margin-top: 17px;
+        font: 14px/25px D-DIN-Medium, Arial, Verdana, sans-serif;
+        margin-right: 15px;
+    }
+    a{
+        font-weight: 600;
+        font: 12px/25px D-DIN-Medium, Arial, Verdana, sans-serif;
+        margin-right: 15px;
+
+    }
+}
 
 
 
